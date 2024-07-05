@@ -1,0 +1,13 @@
+table{
+    background-color: rgb(246, 246, 246);
+    border-radius: 20px;
+}
+
+.tbody-hr{
+border-radius: 20px;
+/* border: solid; */
+}
+
+table tbody tr td{
+    padding: 2rem;
+}
